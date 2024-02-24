@@ -1,0 +1,15 @@
+types of stl in c++
+
+1.algorithms
+2.containers
+3.functions
+4.iterators
+
+a.pairs
+b.vectors
+c.stack
+d.queue
+e.priority_queue
+f.list
+g.set
+h.map
